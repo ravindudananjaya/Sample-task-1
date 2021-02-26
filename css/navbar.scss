@@ -1,8 +1,4 @@
 .navigation {
-    width: 100%;
-    position: fixed;
-    bottom: 0px;
-   
 }
 
 .navigation__home,
@@ -10,10 +6,6 @@
 .navigation__Meals, 
 .navigation__More,
 .navigation__plus {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
 }
 
 
