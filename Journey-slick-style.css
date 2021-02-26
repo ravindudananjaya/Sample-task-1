@@ -1,0 +1,52 @@
+#Journey-slide {
+  margin-top: 10px;
+}
+
+#Journey-slide .slick-list {
+  padding-left: 17px !important;
+}
+
+#Journey-slide .slick-slide {
+  background-image: url(slick/images/bg.svg);
+  background-repeat: no-repeat;
+  width: 334px;
+}
+
+#Journey-slide .slick-slide .slider__box {
+  padding-left: 20px;
+  padding-top: 15px;
+}
+
+#Journey-slide .slick-slide .slider__box .slide {
+  margin-bottom: 10px;
+}
+
+#Journey-slide .slick-slide .slider__box .slide .tint {
+  position: absolute;
+  opacity: 0.6;
+  top: 0;
+  left: 0;
+}
+
+#Journey-slide .slick-slide .slider__box .slide .slider__txt {
+  font-size: 13px;
+}
+
+#Journey-slide .slick-slide .slider__box .slide .slider__txt {
+  padding-top: 79px;
+}
+
+#Journey-slide .slick-slide .slider__box .slide .slider__img {
+  position: absolute;
+  right: 41px;
+  top: 46px;
+}
+
+#Journey-slide .slick-slide .slider__box .slide .slider__header-box {
+  z-index: 5;
+}
+
+#Journey-slide .slick-slide .slider__box .slide .slider__header-box .slider__header-sub {
+  margin-bottom: 0;
+}
+/*# sourceMappingURL=Journey-slick-style.css.map */

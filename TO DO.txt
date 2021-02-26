@@ -1,0 +1,7 @@
+need to change font archivo
+
+media query for iphone 5 slider
+
+sider header layerd down
+
+make csss files sass
