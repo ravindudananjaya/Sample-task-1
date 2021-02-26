@@ -1,8 +1,7 @@
 .navigation {
-  background-color: #000000a8;
   width: 100%;
   position: fixed;
-  bottom: 28px;
+  bottom: 0px;
 }
 
 .navigation__home,
@@ -15,23 +14,5 @@
   top: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-}
-
-.navigation__hidden-item-1 {
-  position: absolute;
-  top: -117px;
-  left: 70px;
-}
-
-more-button:hover .navigation__plus circle {
-  stroke: white;
-  -webkit-transition: 0.3s;
-  transition: 0.3s;
-}
-
-more-button:hover .navigation__plus path {
-  fill: white;
-  -webkit-transition: 0.3s;
-  transition: 0.3s;
 }
 /*# sourceMappingURL=navbar.css.map */
