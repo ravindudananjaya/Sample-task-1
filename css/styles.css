@@ -21,5 +21,11 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     border-radius: 12px;
+    background-image: url(Images/vector-1.svg);
+    background-repeat: no-repeat;
+}
+
+.weight-update__header{
+    font-size:13px;
 }
 
