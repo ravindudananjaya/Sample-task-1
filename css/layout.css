@@ -1,50 +1,30 @@
 .logo {
     width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 34px;
 }
 
 header {
     width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 50px;
 }
 
 .weight-update {
     height: 95px;
     width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-    /* z-index: -999; */
 }
 
 .weight-update__main-text {
-    position: absolute;
-    left: 56px;
-    top: 31px;
 }
 
 .weight-update__update-btn {
-    display: flex;
 }
 
 .weight-update__header{
-    margin-left: 67px;
-    margin-top: 11px;
 }
 
 .weight-update_update-btn-arrow {
-    margin-top: 6px;
-    margin-left: 8px;
 }
 
 .slider-lable{
-    margin-top: 60px;
     width: 90%;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 
