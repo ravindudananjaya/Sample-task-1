@@ -17,6 +17,41 @@
     transform: translate(-50%, -50%);
 }
 
-.navigation__plus {
-    margin-bottom: 0;
+// .navigation__plus:hover {
+
+//     circle{
+//         stroke:white;
+//         transition: 0.3s;
+//     }
+//     path {
+//         fill: white;
+//         transition: 0.3s;
+//     }
+   
+// }
+
+.navigation__hidden-item-1{
+    position: absolute;
+    top: -117px;
+    left: 70px;
 }
+
+more-button:hover {
+    .navigation__plus {
+
+        circle{
+            stroke:white;
+            transition: 0.3s;
+        }
+        path {
+            fill: white;
+            transition: 0.3s;
+        }
+       
+    }
+}
+
+  
+
+
+
