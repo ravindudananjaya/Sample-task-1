@@ -1,0 +1,23 @@
+.navigation {
+  background-color: #000000a8;
+  width: 100%;
+  position: fixed;
+  bottom: 28px;
+}
+
+.navigation__home,
+.navigation__Workouts,
+.navigation__Meals,
+.navigation__More,
+.navigation__plus {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.navigation__plus {
+  margin-bottom: 0;
+}
+/*# sourceMappingURL=navbar.css.map */
